@@ -113,12 +113,12 @@ const quizData = [
     {
         question: "What level do you consider yourself right now?", 
         choices: ["Beginner 1a", "Beginner 2b", "Intermidiate 1a", "Intermidiate 2b", "Advanced 1a", "Advanced 2b"], 
-        images: [   "file:/C:/Users/Mridhan Balaji/Downloads/quizform--main/quizform--main/images/Screenshot (200).png", 
-                    "file:/C:/Users/Mridhan Balaji/Downloads/quizform--main/quizform--main/images/Screenshot (206).png",
-                    "file:/C:/Users/Mridhan Balaji/Downloads/quizform--main/quizform--main/images/Screenshot (203).png",
-                    "file:/C:/Users/Mridhan Balaji/Downloads/quizform--main/quizform--main/images/Screenshot (204).png",
-                    "file:/C:/Users/Mridhan Balaji/Downloads/quizform--main/quizform--main/images/Screenshot (208).png",
-                    "file:/C:/Users/Mridhan Balaji/Downloads/quizform--main/quizform--main/images/Screenshot (209).png"],
+        images: [   "../quizform--main/images/Screenshot (200).png", 
+                    "../quizform--main/images/Screenshot (206).png",
+                    "../quizform--main/images/Screenshot (203).png",
+                    "../quizform--main/images/Screenshot (204).png",
+                    "../quizform--main/images/Screenshot (208).png",
+                    "../quizform--main/images/Screenshot (209).png"],
         val: 3 
     },
 ];
