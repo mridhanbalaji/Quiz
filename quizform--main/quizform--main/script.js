@@ -113,17 +113,16 @@ const quizData = [
     {
         question: "What level do you consider yourself right now?", 
         choices: ["Beginner 1a", "Beginner 2b", "Intermidiate 1a", "Intermidiate 2b", "Advanced 1a", "Advanced 2b"], 
-        images: [   "../quizform--main/images/Screenshot (200).png", 
-                    "../quizform--main/images/Screenshot (206).png",
-                    "../quizform--main/images/Screenshot (203).png",
-                    "../quizform--main/images/Screenshot (204).png",
-                    "../quizform--main/images/Screenshot (208).png",
-                    "../quizform--main/images/Screenshot (209).png"],
+        images: [   "../quizform--main/assets/Screenshot (200).png", 
+                    "../quizform--main/assets/Screenshot (206).png",
+                    "../quizform--main/assets/Screenshot (203).png",
+                    "../quizform--main/assets/Screenshot (204).png",
+                    "../quizform--main/assets/Screenshot (208).png",
+                    "../quizform--main/assets/Screenshot (209).png"],
         val: 3 
     },
 ];
 
-    
  function $(id) {
     return document.getElementById(id); }
   function upload() {
